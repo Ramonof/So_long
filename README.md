@@ -3,4 +3,5 @@
 Linux/Mac compatable
 # How to run
 make
+
 ./bin/so_long tests/classic.ber
